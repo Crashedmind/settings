@@ -10,5 +10,5 @@ G15     |            |                                  |
 G16     |            |                                  |             
 G17     |            |                                  |             
 G18     | E          | Side - First column - bottom     | Outlook Web App Archive (E)            
-G19     |            | Side - First column - middle     |             
+G19     | Ctrl+T     | Side - First column - middle     | Chrome New Tab                        
 G20     | Ctrl+W     | Side - First column - top        | Chrome Close Current Tab            
