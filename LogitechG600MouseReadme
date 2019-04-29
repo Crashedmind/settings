@@ -3,15 +3,15 @@
 G9      |            |                                  |             
 G10     |            |                                  |             
 G11     |            |                                  |             
-G12     |            |                                  |             
-G13     |            |                                  |             
+G12     | Ctrl+F1    |                                  | Switch to Desktop 1            
+G13     | Ctrl+F2    |                                  | Switch to Desktop 2             
 G14     |            |                                  |             
-G15     |            |                                  |             
-G16     |            |                                  |             
+G15     | Ctrl+F10   | Side - column 2 - bottom         | Sow all active apps       
+G16     | Ctrl+F8    | Side - column 2 - middle         | Show all Desktops - zoom out           
 G17     |            |                                  |             
-G18     | E          | Side - First column - bottom     | Outlook Web App Archive (E)            
-G19     | Ctrl+T     | Side - First column - middle     | Chrome New Tab                        
-G20     | Ctrl+W     | Side - First column - top        | Chrome Close Current Tab            
+G18     | E          | Side - column 1 - bottom         | Outlook Web App Archive (E)            
+G19     | Ctrl+T     | Side - column 1 - middle         | Chrome New Tab                        
+G20     | Ctrl+W     | Side - column 1 - top            | Chrome Close Current Tab            
 
 
 XML profile to be saved here...
